@@ -1,0 +1,29 @@
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: antiquewhite;
+    
+    
+}
+body{
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+}
+
+header{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+main img{
+    width: 30%;
+}
+.cat{
+    font-weight: 500;
+}
+h3{
+    font-weight: 600;
+}
